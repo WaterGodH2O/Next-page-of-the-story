@@ -46,14 +46,13 @@ The system integrates **multiple cooperating AI agents**, each responsible for d
 
 ---
 
-## 🛠️ Technology Stack | 技术栈
+## 📅 Development Plan | 开发计划
 
-- **Language:** Python 3.x  
-- **Core Libraries:**  
-  - PyTorch / TensorFlow (model training & fine-tuning)  
-  - Transformers (Hugging Face)  
-  - RAG (Retrieval-Augmented Generation) framework  
-  - Tkinter or PyQt (optional GUI)  
+| Phase | Description | 状态 |
+|-------|--------------|------|
+| MVP Stage | Build 3-agent core system + CLI prototype | ✅ In progress |
+| Expansion Stage | Add GUI, user-defined stories, and RAG support | 🔜 Planned |
+| Evaluation | Performance + Narrative Coherence testing | 🔜 Upcoming |
 
 ---
 
